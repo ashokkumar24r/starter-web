@@ -14,3 +14,5 @@ Also adding some text verify the diff & diffTool
 
 It is the way the changes shows the time and individuals made it.
 
+###How to contribute 
+Please fork this repo and then pull request for review
